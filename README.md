@@ -1,6 +1,6 @@
 # phiona3k.github.io
-**title**: Phiona Kobusingye
+Phiona Kobusingye
 
-**description**: Data Scientist
+Data Scientist
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0953fe65-f1eb-4650-a161-8093f14b1623" />
