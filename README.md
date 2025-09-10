@@ -10,7 +10,7 @@ Data Scientist
 
 Phone:2029090075
 
-Eamil: live@gmail.com
+Email: live@gmail.com
 
 
 **Education**
